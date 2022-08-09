@@ -71,6 +71,7 @@ Harsh Shah
 - [Leyli Ghavami](https://github.com/lghavami)
 - [Jack Roberts](https://github.com/JackRobs25)
 - [Luccas Elias](https://github.com/chEfInHO0)
+- [Chijioke Ubajaka](https://github.com/UbajakaCJ)
 - [Ivan Djukic](https://github.com/ivandjuka77)
 - [Vincent Shadbolt](https://github.com/V-Shadbolt)
 - [Andujar Brutus](https://github.com/Brutusa)
